@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://skillicons.dev/icons?i=mongodb,postgres" /> 
     </a>
 --->
-    <span>SQL, ORCLE</span>
+    <span>SQL, ORCL</span>
   </p>
   
   <h3>💻 Software and Tools</h3>
